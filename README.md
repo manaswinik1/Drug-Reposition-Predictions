@@ -23,6 +23,7 @@ This project was developed by Manaswini Kommareddy.
 
 Dataset:
 https://www.kaggle.com/datasets/divyansh22/drug-discovery-data
+and other dataset is listed in files of the repository
 
 
 
